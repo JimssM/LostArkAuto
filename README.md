@@ -12,4 +12,4 @@
 
 ### UI 编辑
 
-`QT Designer` and some Pycharm QT extensions.
+`QT Designer` 以及 Pycharm 安装的  QT 拓展.
