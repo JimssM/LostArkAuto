@@ -1,0 +1,6 @@
+# main
+pyinstaller --noconfirm --onedir --windowed --icon "C:/Users/xxxx/Pictures/watermelon.ico"  "D:/pythonProject/watermelon/xx辅助.py"
+
+pyinstaller --noconfirm --onedir --console --icon "C:/Users/xxxx/Pictures/watermelon.ico"  "D:/pythonProject/watermelon/xx辅助.py"
+
+pyinstaller --noconfirm --onedir --console --icon "C:/Users/xxxx/Pictures/watermelon.ico"  "D:/pythonProject/watermelon/性能测试.py"
